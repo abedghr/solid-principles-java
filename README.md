@@ -18,9 +18,9 @@ The Principles :
 
 The benifits of applying SOLID principles :
 
-- Encourages(يشجع) good design
+- Encourages good design
 - You can look at any part of the system and understand how it works and how it fits togother.
-- increases cohesion(التماسك) in classes.
+- increases cohesion in classes.
 
 (Helps us to write code that allow classes to do one thing.)
 
